@@ -1,0 +1,7 @@
+{
+  "name": "ثانوية عامة",
+  "description": "رفيقك الذكي في رحلة الثانوية العامة، تنظيم، تحفيز، وجدعنة.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
